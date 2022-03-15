@@ -1,0 +1,175 @@
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 10px 50px 10px 50px;
+  color: white;
+}
+
+.address {
+  line-height: 1.5;
+  margin-right: 20px;
+  margin-top: 20px;
+  text-align: left;
+}
+
+.call {
+  line-height: 2.5;
+  text-align: left;
+}
+
+.email {
+  line-height: 2;
+  text-align: left;
+}
+
+.sub-header {
+  display: flex;
+  background-color: #165ec2;
+  justify-content: center;
+  color: white;
+}
+
+.first-content {
+  display: flex;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.content {
+  width: 271px;
+  height: 321px;
+  margin-top: 15px;
+  margin-right: 50px;
+  margin-left: 28px;
+  border: solid 1px #165ec2;
+  padding: 1px;
+}
+
+.dual {
+  text-align: left;
+  color: #165ec2;
+}
+
+.features {
+  margin-bottom: 10px;
+}
+
+.apps {
+  margin-bottom: 10px;
+}
+
+.dual-1 {
+  width: 382px;
+  height: 40px;
+  background-color: #165ec2;
+  color: white;
+  margin-top: 5px;
+}
+
+.dual-2 {
+  width: 385x;
+  height: 45px;
+  background-color: #165ec2;
+  color: white;
+}
+
+.dual-3 {
+  width: 385px;
+  height: 40px;
+  background-color: #165ec2;
+  color: white;
+}
+
+.para-1 {
+  text-align: left;
+}
+
+.para-2 {
+  text-align: left;
+}
+
+.second-content {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 80px;
+}
+
+.content-1 {
+  width: 380px;
+  height: 287px;
+  border: solid 1px #165ec2;
+  padding: 1px;
+}
+
+.content-2 {
+  width: 380px;
+  height: 504px;
+  border: solid 1px #165ec2;
+  padding: 1px;
+}
+
+.content-3 {
+  width: 380px;
+  height: 291px;
+  border: solid 1px #165ec2;
+  padding: 1px;
+}
+
+.content-4 {
+  width: 366px;
+  height: 107px;
+  margin-top: 20px;
+  margin-right: 50px;
+}
+
+.third-content {
+  display: flex;
+  background-color: #f0f0f0;
+  margin-top: 80px;
+  padding-left: 40px;
+}
+
+.history {
+  color: #165ec2;
+  font-size: xx-large;
+  text-align: left;
+  margin-top: 50px;
+  overflow: visible;
+}
+
+.para-3,
+.para-4,
+.para-5,
+.para-6,
+.para-7,
+.para-8 {
+  text-align: justify;
+  line-height: 1.8;
+  font-size: 1rem;
+  flex-direction: column;
+}
+
+.video {
+  margin-right: 50px;
+  margin-top: 120px;
+}
+
+.heading {
+  margin-right: 60px;
+}
+
+.footer-wrapper {
+  background-color: gray;
+  padding: 5px 10px;
+  color: white;
+}
+
+.text {
+  text-align: left;
+  margin-left: 30px;
+}
+
+.pr-75 {
+  padding-right: 75px;
+}
